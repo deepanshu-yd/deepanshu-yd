@@ -47,6 +47,16 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="150" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
+
+###
+
 <div align="left">
   <a href="https://x.com/deez_codes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -65,30 +75,6 @@
   </a>
   <a href="https://discord.com/deepanshu.codes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DeepanshuYadav-code/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/deepanshu.chills">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=deepanshu.chills&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
