@@ -91,8 +91,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22sd128mfnz8k2mbcqyge98fq" alt="Spotify recently played"  />
+<div align="right">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22sd128mfnz8k2mbcqyge98fq&count=3" alt="Spotify recently played"  />
 </div>
 
 ###
