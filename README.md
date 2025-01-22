@@ -47,15 +47,15 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://x.com/deez_codes" target="_blank">
