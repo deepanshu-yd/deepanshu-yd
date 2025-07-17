@@ -1,12 +1,18 @@
+<br clear="both">
+
 <h2 align="center">GM GM ⚡ My name is Deepanshu, and I am a Full-Stack Web3 Developer</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DeepanshuYadav-code.DeepanshuYadav-code&"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepanshuYadav-code&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Languages%20Used" height="150" alt="languages graph"  />
@@ -56,9 +62,11 @@
 
 ###
 
-<div align="center">
-  <img height="185" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRkZGZseTA2NTA2cm04a2JjanBoeXhyaGF2enJteXZoZDV5NWJsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif"  />
-</div>
+<img align="right" height="163" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
 
 ###
 
