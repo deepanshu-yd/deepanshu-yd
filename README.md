@@ -85,6 +85,6 @@
 
 ###
 
-<img height="130" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
+<img height="140" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
 
 ###
