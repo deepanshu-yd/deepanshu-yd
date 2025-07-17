@@ -4,14 +4,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DeepanshuYadav-code.DeepanshuYadav-code&"  />
 </div>
 
+######
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepanshuYadav-code&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Languages%20Used" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuYadav-code&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+
+###
   
   <img src="https://github-profile-trophy.vercel.app?username=DeepanshuYadav-code&no-frame=true&no-bg=true&theme=dracula&column=9" height="150" alt="trophy graph"  />
 </div>
-
-###
 
 
 <div align="center">
