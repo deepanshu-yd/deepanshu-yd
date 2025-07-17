@@ -81,10 +81,10 @@
 
 ###
 
-<img align="right" height="110" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
+<img align="right" height="115" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
 
 ###
 
-<img height="140" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
+<img height="135" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
 
 ###
