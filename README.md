@@ -1,28 +1,18 @@
-<br clear="both">
-
 <h2 align="center">GM GM ⚡ My name is Deepanshu, and I am a Full-Stack Web3 Developer</h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DeepanshuYadav-code.DeepanshuYadav-code&"  />
 </div>
 
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepanshuYadav-code&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Languages%20Used" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuYadav-code&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
   <img src="https://github-profile-trophy.vercel.app?username=DeepanshuYadav-code&no-frame=true&no-bg=true&theme=dracula&column=9" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -62,7 +52,11 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="115" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
+
+###
+
+<img height="135" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yadavdeepanshu000@gmail.com" target="_blank">
@@ -78,13 +72,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="115" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
-
-###
-
-<img height="135" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
-
-###
