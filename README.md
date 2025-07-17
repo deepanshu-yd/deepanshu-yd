@@ -55,7 +55,7 @@
 
 ###
 
-<img align="right" height="140" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
+<img align="right" height="125" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
 
 ###
 
