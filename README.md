@@ -55,11 +55,11 @@
 
 ###
 
-<img align="right" height="125" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
+<img align="right" height="100" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
 
 ###
 
-<img align="left" height="130" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
+<img align="left" height="105" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
 
 ###
 
