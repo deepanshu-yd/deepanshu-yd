@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">GM GM ⚡ My name is Deepanshu, and I am a Full-Stack Web3 Developer</h2>
 
 <div align="center">
@@ -57,11 +55,11 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
+<img align="right" height="140" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
 
 ###
 
-<img align="left" height="153" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
+<img align="left" height="143" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
 
 ###
 
