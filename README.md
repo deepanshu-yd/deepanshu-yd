@@ -1,10 +1,4 @@
-<br clear="both">
-
 <h3 align="center">gm, i am deepanshu and i usually work with</h3>
-
-###
-
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
@@ -29,5 +23,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
 </div>
-
-###
