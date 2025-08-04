@@ -51,23 +51,5 @@
 
 ###
 
-<img align="right" height="115" src="https://gifdb.com/images/high/luffy-spinning-straw-hat-7t9ab5hrcqtv0ffg.webp"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/deepanshu-yd/deepanshu-yd/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yadavdeepanshu000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/+VAtJnaoySfozYmE1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://youtu.be/xvFZjo5PgG0?si=0jbqWBvUXfC0-d3d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=flat" height="35" alt="slack logo"  />
-  </a>
-  <a href="https://discord.gg/euYBfdph" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
-  </a>
-</div>
