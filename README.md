@@ -1,18 +1,20 @@
 <h2 align="center">GM GM ⚡ My name is Deepanshu, and I am a Full-Stack Web3 Developer</h2>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DeepanshuYadav-code.DeepanshuYadav-code&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu-yd.deepanshu-yd&"  />
 </div>
 
 ######
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepanshuYadav-code&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Languages%20Used" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuYadav-code&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu-yd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Languages%20Used" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-yd&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
 
 ###
   
-  <img src="https://github-profile-trophy.vercel.app?username=DeepanshuYadav-code&no-frame=true&no-bg=true&theme=dracula&column=9" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=deepanshu-yd&no-frame=true&no-bg=true&theme=dracula&column=9" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -53,7 +55,7 @@
 
 ###
 
-<img height="135" src="https://raw.githubusercontent.com/DeepanshuYadav-code/DeepanshuYadav-code/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/deepanshu-yd/deepanshu-yd/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yadavdeepanshu000@gmail.com" target="_blank">
