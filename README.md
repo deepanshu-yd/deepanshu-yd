@@ -23,9 +23,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
 </div>
-
-<div align="center">
-  <img height="600" src="https://i.pinimg.com/736x/51/67/40/516740fe23ba919ea315686618bcd164.jpg"/>
-
-
-###
