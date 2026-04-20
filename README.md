@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://storage.ghost.io/c/b2/52/b2529529-6522-4bf6-bc77-cb4d5fdd22f0/content/images/size/w1200/2025/04/1inch-Solana.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/roof-piece-luffy-monkey-d-luffy-juhtawn-onigashima-gif-25507412" />
 
 ###
 
