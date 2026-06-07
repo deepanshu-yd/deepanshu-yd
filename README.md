@@ -1,6 +1,12 @@
+<h1 align="center">
+  Hi, I am Deepanshu Yadav <img src="https://github.com/user-attachments/assets/c3cdc20b-3151-4c73-8550-2c09394af8e0" width="27" valign="middle">
+</h1>
+
+###
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
@@ -24,6 +30,10 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-<div align="center">
-  <img height="463" src="https://storage.ghost.io/c/b2/52/b2529529-6522-4bf6-bc77-cb4d5fdd22f0/content/images/2025/04/1inch-Solana.gif"  />
-</div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshu-yd/deepanshu-yd/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshu-yd/deepanshu-yd/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepanshu-yd/deepanshu-yd/pacman-output/galaga-contribution-graph.svg">
+</picture>
