@@ -5,6 +5,20 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu-yd.deepanshu-yd&"  />
+</div>
+
+###
+
+<!-- <img width="800" height="450" alt="ezgif-6f29dffc28162111" src="https://github.com/user-attachments/assets/3ef9c229-f4db-41ba-bee3-94571a101b83" /> -->
+
+<div align="center">
+  <img height="500" src="https://github.com/user-attachments/assets/3ef9c229-f4db-41ba-bee3-94571a101b83"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
