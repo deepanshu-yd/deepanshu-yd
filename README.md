@@ -5,14 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu-yd.deepanshu-yd&"  />
-</div>
-
-###
-
-<!-- <img width="800" height="450" alt="ezgif-6f29dffc28162111" src="https://github.com/user-attachments/assets/3ef9c229-f4db-41ba-bee3-94571a101b83" /> -->
-
-<div align="center">
   <img height="500" src="https://github.com/user-attachments/assets/3ef9c229-f4db-41ba-bee3-94571a101b83"  />
 </div>
 
@@ -51,3 +43,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshu-yd/deepanshu-yd/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepanshu-yd/deepanshu-yd/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu-yd.deepanshu-yd&"  />
+</div>
